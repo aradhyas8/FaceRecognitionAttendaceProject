@@ -4,7 +4,7 @@ Features:
 2. Capture Faces
 3. Train Faces
 4. Recognize Faces and Attendance
-System: 
+5. System: 
 This project entails developing an attendance system that uses facial recognition to track employee presence, time-in, and time-out.
 It includes facial recognition, alignment, and identification, as well as the creation of a web application to support the system's many use cases,
 such as new employee registration, photo addition to the training dataset, reading attendance records, and so on.
